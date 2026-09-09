@@ -17,7 +17,7 @@
         <p>
           Comprehensive maritime surveillance and intelligence through satellite observation,
           supporting navigation safety, resource management, security operations, and environmental
-          protection across maritime domains.
+          protection across maritime domains. Done by Mechelle PD
         </p>
       </div>
     </section>
