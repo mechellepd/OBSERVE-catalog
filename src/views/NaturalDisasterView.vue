@@ -18,7 +18,7 @@
         <p>
           Satellite observation provides critical data for disaster preparedness, response, and
           recovery, enabling rapid assessment and coordinated relief efforts for communities at
-          risk. Testing.
+          risk. Testing only.
         </p>
       </div>
     </section>
